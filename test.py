@@ -1,1 +1,1 @@
-prin("hello v2")
+pri("hello v2")
